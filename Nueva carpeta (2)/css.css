@@ -1,0 +1,139 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(247, 0, 0);
+    font-size: 30px;
+}
+#por{
+    width: 70%;
+}
+h2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(247, 0, 0);
+}
+img{
+    border-image: auto;
+}
+h3{
+    text-align: center;
+}
+aside{
+    color: rgb(218, 217, 240);
+    background-color: rgb(247, 0, 0);
+   position: relative;
+    top: 10px;
+    width: 70%;
+    left: 190px;
+}
+#a{
+    color: rgb(255, 255, 255);
+}
+body{
+    margin: auto;
+    background-color: rgb(226, 244, 245);
+}
+.ma{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 70%;
+   position: relative;
+   left: 190px;
+}
+p{
+    text-indent: 25px;
+    text-align: center;
+}
+table{
+    border: 1px solid rgb(0, 0,0);
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ar{
+list-style: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+.ml{
+    float: left;
+    align-content: center;
+}
+.asa{
+    text-align: center;
+display: block;
+padding: 8px;
+background-color: rgb(247, 0, 0);
+color: rgb(255, 255, 255);
+}
+#ak{
+    list-style: none;
+}
+ol{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.loa{
+    background-color: darkgrey;
+    text-align: center;
+    margin: auto;
+    width: 70%;
+}
+button:hover{
+ background-color: rgb(186, 236, 104);
+}
+button{
+    background-color: rgb(250, 135, 135);
+    position: relative;
+    left: 600px;
+    color: rgb(255, 255, 255);
+    top: 10px;
+    width: 100px;
+}
+nav{
+    position: relative;
+    left: 440px;
+    margin-top: 15px;
+}
+#aso{
+    position: relative;
+    margin: auto;
+}
+.alo{
+    position: relative;
+    left: 390px;
+}
+footer{
+    background-color: rgb(247, 0, 0);
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 6px;
+    width: 70%;
+    left: 190px;
+}
+#aer{
+    float: right;
+    list-style: none;
+    margin-top: 60px;
+    margin-right: 210px;
+    text-align: left;
+}
+.mano{
+    width: 70%;
+    position: relative;
+    left: 190px;
+}
+#ato{
+    background-color: rgb(247, 0, 0);
+    width: 12%;
+    height: 150px;
+    position: absolute;
+    left: 1120px;
+    margin-top: 50px;
+    border: 5px solid rgb(240, 255, 107),;
+}
+.mae{
+    position: relative;
+    left: 193px;
+    color: rgb(255, 255, 255);
+}
